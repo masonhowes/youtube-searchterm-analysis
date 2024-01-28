@@ -33,7 +33,7 @@ I was expecting Amazon to be one of the largest words in the first word cloud an
 
 ![Word Cloud #1](img/wordcloud-1.png)
 
-Data CSV File: [search-results-1.csv](https://raw.githubusercontent.com/masonhowes/youtube-searchterm-analysis/main/assets/search-results-2.csv)
+Data CSV File: [search-results-1.csv](assets/search-results-1.csv)
 
 ### Word Cloud #2 - Search Query "amazon company 2023"
 
