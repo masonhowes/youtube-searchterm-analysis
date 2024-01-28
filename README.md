@@ -1,8 +1,5 @@
 # youtube-searchterm-analysis
 
-Export the two or more word clouds to the repository and then insert them to the readme.md. (5 PTS)
-The readme.md also needs to include a url to download the result spreadsheets (csv file) of the collected data (5 PTS).
-
 ### Topic & Parameters Used in Search
 
 For this word cloud analysis, I wanted to compare results that dealt with Tech company layoffs that have been regularly making the news for the past few years. In order to have at least a years worth of data for the algorithm to pick from, and for it to be recent data, I chose the year 2023. In order to perform this search, I fed the algorithm two search queries. The first query was "tech company layoffs 2023", and the second was "amazon company 2023".
